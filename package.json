@@ -12,7 +12,7 @@
     "build": "tsc"
   },
   "keywords": [],
-  "license": "ISC",
+  "license": "MIT",
   "devDependencies": {
     "@types/mongoose": "^5.10.5",
     "@types/node": "^15.6.1",
