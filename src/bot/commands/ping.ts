@@ -4,7 +4,7 @@ import { IBaseinteraction } from '../../types';
 
 
 export default class PingCommand extends BaseCommandClient {
-    constructor () {
+    public constructor () {
         super({
             name: "ping",
             description: "pong",
