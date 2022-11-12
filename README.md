@@ -5,7 +5,7 @@
 - npm install or yarn add
 ```
 
-## 🚀 Start bot
+## 🚀 Start the bot
 ```
 - npm run start or yarn start
 - npm run dev or yarn dev (Development)
